@@ -361,6 +361,12 @@ h6 {
   text-transform: uppercase;
 }
 
+.about .image {
+  background: url("../img/weddingP.jpg") center center no-repeat;
+  background-size: cover;
+  min-height: 500px;
+}
+
 #hero .btn-scroll {
   transition: 0.4s;
   color: rgba(255, 255, 255, 0.6);
