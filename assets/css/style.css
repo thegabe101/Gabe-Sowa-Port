@@ -142,16 +142,6 @@ h6 {
   left: 14px;
   top: calc(100% + 30px);
   margin: 0;
-<<<<<<< HEAD
-  padding: 10px 0;
-  z-index: 99;
-  opacity: 0;
-  visibility: hidden;
-  background: #fff;
-  box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
-  transition: 0.3s;
-  border-radius: 4px;
-=======
   z-index: 99;
   opacity: 0;
   visibility: hidden;
@@ -161,7 +151,6 @@ h6 {
   transition: 0.3s;
   border-radius: 4px;
   padding: 15%;
->>>>>>> 35fa3c3b7d34969b532223b2a4295e555b3e3d7f
 }
 
 .navbar .dropdown ul li {
@@ -372,15 +361,14 @@ h6 {
   text-transform: uppercase;
 }
 
-<<<<<<< HEAD
-=======
 .about .image {
   background: url("../img/weddingP.jpg") center center no-repeat;
   background-size: cover;
   min-height: 500px;
+  border-radius: 15px;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 }
 
->>>>>>> 35fa3c3b7d34969b532223b2a4295e555b3e3d7f
 #hero .btn-scroll {
   transition: 0.4s;
   color: rgba(255, 255, 255, 0.6);
@@ -631,15 +619,6 @@ section {
   color: #82909c;
 }
 
-<<<<<<< HEAD
-.about .image {
-  background: url("../img/me.jpg") center center no-repeat;
-  background-size: cover;
-  min-height: 500px;
-}
-
-=======
->>>>>>> 35fa3c3b7d34969b532223b2a4295e555b3e3d7f
 .about .skills-content {
   margin-top: 30px;
 }
@@ -683,13 +662,8 @@ section {
 .resume .resume-title {
   font-size: 26px;
   font-weight: 700;
-<<<<<<< HEAD
-  margin-top: 20px;
-  margin-bottom: 20px;
-=======
   margin-top: 10px;
   margin-bottom: 5px;
->>>>>>> 35fa3c3b7d34969b532223b2a4295e555b3e3d7f
   color: #3b434a;
 }
 
@@ -720,6 +694,14 @@ section {
 
 .resume .resume-item ul {
   padding-left: 20px;
+}
+
+.soupseeker1 {
+  padding: 10px;
+}
+
+.soupseeker1p {
+  margin-bottom: 30%;
 }
 
 .resume .resume-item ul li {
@@ -803,11 +785,7 @@ section {
 --------------------------------------------------------------*/
 .testimonials {
   padding: 80px 0;
-<<<<<<< HEAD
-  background: url("../img/testimonials-bg.jpg") no-repeat;
-=======
   background: url("../img/open-networking-banner.jpg") no-repeat;
->>>>>>> 35fa3c3b7d34969b532223b2a4295e555b3e3d7f
   background-position: center center;
   background-size: cover;
   position: relative;
@@ -1340,11 +1318,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-<<<<<<< HEAD
-  background: url("../img/footer-bg.jpg") top center no-repeat;
-=======
   background: url("../img/aerial.jpg") top center no-repeat;
->>>>>>> 35fa3c3b7d34969b532223b2a4295e555b3e3d7f
   background-size: cover;
   color: #fff;
   font-size: 14px;
